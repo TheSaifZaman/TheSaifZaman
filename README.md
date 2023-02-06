@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently focusing on **DevOps and ML library**
 
-- 👨‍💻 All of my projects are available at [thesaifzaman.kkorporation.xyz](thesaifzaman.kkorporation.xyz)
+<!-- - 👨‍💻 All of my projects are available at [thesaifzaman.kkorporation.xyz](thesaifzaman.kkorporation.xyz) -->
 
 - 📝 I try to write articles on [https://medium.com/@info.saifzaman](https://medium.com/@info.saifzaman)
 
 - 💬 Ask me about **OOP, SLOID Principle, Design Pattern, Database, API**
 
-- 📫 How to reach me **info.saifzaman@gmail.com**
+<!-- - 📫 How to reach me **info.saifzaman@gmail.com** -->
 
 - 📄 Know about my experiences [https://medium.com/@info.saifzaman](https://medium.com/@info.saifzaman)
 
