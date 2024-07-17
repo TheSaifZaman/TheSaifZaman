@@ -80,7 +80,7 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
 
 ### Frameworks and Libraries (Primary):
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
 </a>
 
 ### Frameworks and Libraries (Secondary):
