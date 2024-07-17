@@ -41,8 +41,8 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
     <img src="https://github-profile-trophy.vercel.app/?username=thesaifzaman" alt="thesaifzaman" />
   </a>
 </p>
----
 
+---
 ## Tools & Technologies
 ---
 ### Cloud Services:
@@ -153,12 +153,11 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
 </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
----
-  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesaifzaman&show_icons=true&locale=en&layout=compact" alt="thesaifzaman" />
-</p>
 
-<p>
+---
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesaifzaman&show_icons=true&locale=en&layout=compact" alt="thesaifzaman" />
+</a>
+<a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=thesaifzaman&show_icons=true&locale=en" alt="thesaifzaman" />
-</p>
+</a>
