@@ -20,16 +20,16 @@ I have a solid background in backend development, specializing in creating effic
 - **Backend Engineer:** Developed and maintained backend systems for various applications, ensuring high performance, security, and scalability.
 - **DevOps Engineer:** Implemented CI/CD pipelines, automated deployment processes, and managed cloud infrastructure to support development teams and enhance operational efficiency.
 
-#### Projects and Contributions
-- **E-commerce Platform:** Designed and implemented a scalable backend for an e-commerce platform, integrating payment gateways, product management, and order processing.
-- **Real-Time Analytics:** Developed a real-time analytics system using stream processing and data visualization tools to provide insights and monitoring for client applications.
+### Projects and Contributions
+- **Real Estate Management System:** Worked on the development of a comprehensive real estate management system.
+- **Platform System Design:** Designed systems for various platforms, including a Travel Management App, a Hospital Management App, and a Service Providing App.
 - **Microservices Migration:** Led the migration of a monolithic application to a microservices architecture, improving system resilience and facilitating easier maintenance and scaling.
 
 #### Writing and Speaking
 I enjoy sharing my knowledge and experiences through writing and speaking engagements. I regularly contribute articles on backend development and DevOps practices to [Medium](https://medium.com/@info.saifzaman).
 
 #### Connect with Me
-Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in/thesaifzaman) or follow me on [Twitter](https://twitter.com/thesaifzaman). Let's discuss technology, share ideas, and collaborate on exciting projects.
+Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in/thesaifzaman). Let's discuss technology, share ideas, and collaborate on exciting projects.
 
 ---
 <p align="left">
@@ -45,14 +45,6 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
 ---
 ## Tools & Technologies
 ---
-### Cloud Services:
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
-
 ### Programming Languages (Primary):
 <a href="https://golang.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -94,6 +86,20 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
 
+### Databases:
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
+
 ### Tools and Platforms:
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -117,18 +123,12 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </a>
 
-### Databases:
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+### Cloud Services:
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </a>
 
 ### Machine Learning and Data Science:
