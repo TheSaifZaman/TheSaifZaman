@@ -32,7 +32,6 @@ I enjoy sharing my knowledge and experiences through writing and speaking engage
 Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in/thesaifzaman) or follow me on [Twitter](https://twitter.com/thesaifzaman). Let's discuss technology, share ideas, and collaborate on exciting projects.
 
 ---
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thesaifzaman&label=Profile%20views&color=0e75b6&style=flat" alt="thesaifzaman" />
 </p>
@@ -42,10 +41,11 @@ Feel free to reach out and connect with me on [LinkedIn](https://linkedin.com/in
     <img src="https://github-profile-trophy.vercel.app/?username=thesaifzaman" alt="thesaifzaman" />
   </a>
 </p>
+---
 
-Sure, here's the grouping by category:
-
-**Cloud Services:**
+## Tools & Technologies
+---
+### Cloud Services:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 
