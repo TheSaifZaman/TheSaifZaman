@@ -7,7 +7,7 @@
   <!-- Name & Title -->
   <h1 style="margin-top: 15px;">Md Saif Zaman</h1>
   <h3>
-    Abdullah · Backend & DevOps Engineer · System Architect · Engineering Manager
+    Abdullah · Cloud-Native Backend Architect · Engineering Mentor
   </h3>
   
   <!-- Contact & Socials -->
