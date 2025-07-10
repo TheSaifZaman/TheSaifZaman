@@ -40,45 +40,117 @@ To deliver tailored backend + DevOps solutions that drive innovation, efficiency
 
 ---
 
-## 🛠️ Tech Toolbox
+## 💼 Key Competencies
+
+<!-- 🔧 Interactive Skills Matrix Section -->
+
+<div align="center">
+
+<h3>🧠 Key Competencies</h3>
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Software%20Engineering-blue?style=for-the-badge" /><br><br>
+        <ul>
+          <li>OOP, SOLID, DRY, DDD</li>
+          <li>Agile, SDLC, UML</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/DevOps%20&%20CI%2FCD-darkorange?style=for-the-badge" /><br><br>
+        <ul>
+          <li>Jenkins, GitHub Actions</li>
+          <li>Docker, Kubernetes</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge" /><br><br>
+        <ul>
+          <li>GO, Python, Pseudocode</li>
+          <li>Systems Thinking</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Cloud%20&%20API-purple?style=for-the-badge" /><br><br>
+        <ul>
+          <li>AWS, GCP, gRPC, WebSocket</li>
+          <li>REST, GraphQL, RPC</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---<!-- 🛠️ Tech Toolbox Section -->
+
+<h3 align="center">🛠️ Tech Toolbox</h3>
+
+<div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br>Laravel, Symfony
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/><br>
+      <sub><strong>Laravel, Symfony</strong></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br>REST, RPC, CLI
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/><br>
+      <sub><strong>REST, RPC, CLI</strong></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>Automation, Data Analysis
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br>
+      <sub><strong>Automation, Data Analysis</strong></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>MySQL, PostgreSQL, MongoDB
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><br>
+      <sub><strong>MySQL, PostgreSQL, MongoDB</strong></sub>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
-## 🚀 DevOps Stack
+<!-- 🚀 DevOps Stack Section -->
+
+<h3 align="center">🚀 DevOps Stack</h3>
+
+<div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>Containers
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br>
+      <sub><strong>Containers</strong></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>Orchestration
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/><br>
+      <sub><strong>Orchestration</strong></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>Version Control
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br>
+      <sub><strong>Version Control</strong></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>Cloud Hosting
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><br>
+      <sub><strong>Cloud Hosting</strong></sub>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -116,19 +188,6 @@ To deliver tailored backend + DevOps solutions that drive innovation, efficiency
 
 ---
 
-## 💼 Key Competencies
-
-<div align="center">
-
-| Software Engineering     | DevOps & CI/CD        | Problem Solving     | Cloud & API         |
-|--------------------------|------------------------|----------------------|----------------------|
-| OOP, SOLID, DRY, DDD     | Jenkins, GitHub Actions| GO, Python, Pseudocode | AWS, GCP, gRPC, WebSocket |
-| Agile, SDLC, UML         | Docker, Kubernetes     | Systems Thinking     | REST, GraphQL, RPC    |
-
-</div>
-
----
-
 ## 🧠 Extra Activities
 
 - 🏅 **Top 20** in National Physics Olympiad (3rd–5th)  
@@ -141,5 +200,4 @@ To deliver tailored backend + DevOps solutions that drive innovation, efficiency
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesaifzaman&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaifzaman&layout=compact&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=thesaifzaman&theme=onedark" />
 </div>
