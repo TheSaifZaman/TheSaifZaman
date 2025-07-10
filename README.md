@@ -1,126 +1,146 @@
+<!-- GitHub Profile README: thesaifzaman -->
+
+<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f6fe3ba472d8187741c604264d614e2ac3eeee83&rid=giphy.gif&ct=g" width="250">
-  <h1>Hi 👋, I'm Md Saif Zaman</h1>
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
+  <h1>Hi 👋, I'm <span style="color:#ff6600;">Md Saif Zaman</span></h1>
   <h3>A Passionate Backend and DevOps Engineer</h3>
+
+  <!-- SOCIALS -->
   <p>
-    <a href="https://www.linkedin.com/in/thesaifzaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://medium.com/@info.saifzaman"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-    <a href="mailto:xxxxxxxxxxxx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/thesaifzaman/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://medium.com/@info.saifzaman">
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="mailto:xxxxxxxxxxxx@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=thesaifzaman&label=Profile%20views&color=0e75b6&style=flat-square" alt="thesaifzaman" />
-  </p>
+
+  <!-- PROFILE VIEW COUNTER -->
+  <img src="https://komarev.com/ghpvc/?username=thesaifzaman&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views">
 </div>
 
 ---
 
+<!-- ABOUT ME SECTION -->
 ## 👨‍💻 About Me
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-      A passionate Backend Software Engineer and DevOps Engineer with over 3.5 years of experience. I specialize in designing, developing, and deploying scalable, high-performance applications. My expertise lies in creating efficient APIs, managing databases, and building robust CI/CD pipelines to ensure seamless and reliable software delivery.
+    <td width="50%" valign="top">
+      A passionate Backend Software Engineer and DevOps Engineer with over 3.5 years of experience. I specialize in designing, developing, and deploying scalable, high-performance applications.
     </td>
-    <td valign="top" width="50%">
-      I am proficient in a variety of technologies, including PHP (Laravel, Symfony), Go, and Python, and I have extensive experience with cloud platforms like AWS and Google Cloud. I am passionate about leveraging my skills in containerization, microservices, and automation to drive innovation and build cutting-edge solutions that solve real-world problems.
+    <td width="50%" valign="top">
+      Proficient in Go, PHP, Python, and experienced with AWS & GCP. I love containerization, microservices, and automation to deliver robust engineering solutions.
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- SKILLS SECTION -->
 ## 🛠️ Skills & Expertise
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-      ### Backend Development
-      - **Languages**: Go, Kotlin, PHP, Python, JavaScript, TypeScript
-      - **Frameworks**: Laravel, Symfony, CodeIgniter, Vue.js
-      - **Architecture**: Microservices, RESTful APIs, GraphQL, gRPC, WebSocket
+    <td width="50%" valign="top">
+      <strong>💻 Backend Development</strong><br>
+      • Go, Kotlin, PHP, Python, JavaScript, TypeScript<br>
+      • Laravel, Symfony, CodeIgniter, Vue.js<br>
+      • RESTful APIs, GraphQL, gRPC, WebSocket, Microservices
     </td>
-    <td valign="top" width="50%">
-      ### DevOps & Cloud
-      - **Containerization**: Docker, Kubernetes
-      - **CI/CD**: Jenkins, Git
-      - **Cloud**: AWS, Google Cloud
-      - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle, Redis
+    <td width="50%" valign="top">
+      <strong>☁️ DevOps & Cloud</strong><br>
+      • Docker, Kubernetes<br>
+      • Jenkins, Git, CI/CD<br>
+      • AWS, Google Cloud<br>
+      • MySQL, PostgreSQL, MongoDB, Redis, Oracle
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- PROJECTS -->
 ## 🚀 Projects & Experience
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-      ### Professional Experience
-      - **Assistant Software Engineer** @ Blubird Interactive Ltd. (Aug '22 - Present)
-      - **Consultant Software Engineer** @ OrangeHRM (May '22 - Jul '22)
-      - **Software Engineer** @ Skylark Soft Ltd. (Nov '21 - Apr '22)
-      - **Junior Software Engineer** @ Fleet Bangladesh (Dec '20 - Sep '21)
+    <td width="50%" valign="top">
+      <strong>💼 Experience</strong><br>
+      • Assistant Software Engineer - Blubird Interactive (Aug '22 - Present)<br>
+      • Consultant - OrangeHRM (May '22 - Jul '22)<br>
+      • Software Engineer - Skylark Soft Ltd. (Nov '21 - Apr '22)<br>
+      • Junior Software Engineer - Fleet Bangladesh (Dec '20 - Sep '21)
     </td>
-    <td valign="top" width="50%">
-      ### Key Projects
-      - **SaaS Real Estate Management System**: Developed a comprehensive ERP and CRM platform with integrations for QuickBooks, Twilio, Zillow, and more.
-      - **Apparel ERP System**: Designed and implemented APIs for integrated accounting modules.
-      - **Microservices Migration**: Led the transition of a monolithic application to a microservices architecture.
+    <td width="50%" valign="top">
+      <strong>📌 Projects</strong><br>
+      • SaaS Real Estate Management Platform (ERP, CRM, integrations)<br>
+      • Apparel ERP APIs with accounting modules<br>
+      • Migrated legacy systems to modern microservice architecture
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- TOOLS SECTION -->
 ## 💻 Tools & Technologies
 
-### Programming Languages
+### 🚀 Programming Languages
 <p align="left">
-  <a href="https://golang.org" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-### Frameworks & Libraries
+### 🔧 Frameworks & Libraries
 <p align="left">
-  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/></a>
-  <a href="https://symfony.com" target="_blank"><img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="symfony"/></a>
-  <a href="https://codeigniter.com" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vuejs"/></a>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </p>
 
-### Databases & Cloud
+### ☁️ Databases & Cloud
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 ---
 
+<!-- STATS SECTION -->
 ## 📊 GitHub Stats
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thesaifzaman" alt="thesaifzaman" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thesaifzaman&theme=onedark" />
   </a>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesaifzaman&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="thesaifzaman" />
-   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesaifzaman&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesaifzaman&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thesaifzaman&show_icons=true&theme=radical" />
+</div>
