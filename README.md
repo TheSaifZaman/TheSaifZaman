@@ -42,7 +42,7 @@
   
 ### 🎯 Career Summary  
 
-Experienced Software Engineer with 3.5+ years in Backend Development. Passionate about clean code, scalable systems, and automation. Proficient in designing CI/CD pipelines, cloud-native architecture, and building real-world ERP & SaaS solutions.
+Experienced Software Engineer with 5 years in Backend Development. Passionate about clean code, scalable systems, and automation. Proficient in designing CI/CD pipelines, cloud-native architecture, and building real-world ERP & SaaS solutions.
 
 </td>
 <td align="center" width="48%">
